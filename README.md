@@ -9,10 +9,10 @@
 	<hr>
 	<h4>⏳ History ⌛</h4>
 	<ul >
-		<li> 2021. 08 ~ 2022. 02 신세계아이앤씨 리테일테크 코딩 교실 - 중학생들 대상 아두이노 기반 프로그래밍 교육 </li>
-		<li> 2022. 07 ~ 2022. 12 SK 써니C - 미래역량 학습 및 아이디어톤 참가 </li>
-		<li> 2023. 03 ~ 2023. 08 멋쟁이사자처럼 - html, css, javascript, java, mysql 과제 해결 및 해커톤 참가 </li>
-		<li> 2024. 09 ~ 신한투자증권 프로디지털아카데미 - 열씨미 하는 중~ </li>
+		<li> 2021. 08 ~ 2022. 02 신세계아이앤씨 리테일테크 코딩 교실 </li>
+		<li> 2022. 07 ~ 2022. 12 SK 써니C </li>
+		<li> 2023. 03 ~ 2023. 08 멋쟁이사자처럼 </li>
+		<li> 2024. 09 ~ 신한투자증권 프로디지털아카데미 </li>
 	</ul>
 	<hr>
  	<h4>📚 Tech Stack 📚</h4>
@@ -26,6 +26,11 @@
  	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+	<hr>
+	<h4>✨ Interests ✨</h4>
+	<ul>
+		<li> 커피 </li>
+	</ul>
 	<hr>
   	<h4>📬 Contact Me 📬</h4>
 	<a href="mailto:skalsdl10@gmail.com">
