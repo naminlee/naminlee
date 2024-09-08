@@ -33,6 +33,10 @@
 		<li> 카페 탐방하기 </li>
 		<li> 홈카페 즐기기 </li>
 	</ul>
+	<img src="https://github.com/user-attachments/assets/7c487fe4-e575-4152-9ec7-4e96bc54b68c">
+	<img src="https://github.com/user-attachments/assets/0e36eb29-59d7-4734-8864-afff7c126f0a">
+	<img src="https://github.com/user-attachments/assets/3b9e9961-3062-4806-90cb-a95e875cfd38">
+	<img src="https://github.com/user-attachments/assets/e8b6b1cd-fb49-4593-82f1-dd26221c0a08">
 	<hr>
   	<h4>📬 Contact Me 📬</h4>
 	<a href="mailto:skalsdl10@gmail.com">
