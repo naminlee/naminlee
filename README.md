@@ -2,6 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=wave&color=0:fef4d7,100:d4f8e8&height=100&section=header&text=Namin's%20Palette&fontSize=20&fontColor=black" />
 </div>
 <div align=left>
+	<h4>🌠 Goal 🌠</h4>
 	<ul>
 		<li>다양한 경험이나 사람들과의 관계를 조화롭게 엮어내며 삶을 풍부하고 의미 있게 만들어 나가는 개발자</li>
 		<li>깃허브를 다양한 프로젝트로 채우기</li>
@@ -29,7 +30,8 @@
 	<hr>
 	<h4>✨ Interests ✨</h4>
 	<ul>
-		<li> 커피 </li>
+		<li> 카페 탐방하기 </li>
+		<li> 홈카페 즐기기 </li>
 	</ul>
 	<hr>
   	<h4>📬 Contact Me 📬</h4>
