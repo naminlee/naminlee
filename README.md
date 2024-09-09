@@ -10,23 +10,23 @@
 	<hr>
 	<h4>⏳ History ⌛</h4>
 	<ul >
-		<li> 2021. 08 ~ 2022. 02 : 신세계아이앤씨 리테일테크 코딩 교실 </li>
-		<li> 2022. 07 ~ 2022. 12 : SK 써니C </li>
-		<li> 2023. 03 ~ 2023. 08 : 멋쟁이사자처럼 </li>
-		<li> 2024. 09 ~ Now : 신한투자증권 프로디지털아카데미 </li>
+		<li> 2021. 08 ~ 2022. 02 신세계아이앤씨 리테일테크 코딩 교실 </li>
+		<li> 2022. 07 ~ 2022. 12 SK 써니C </li>
+		<li> 2023. 03 ~ 2023. 08 멋쟁이사자처럼 </li>
+		<li> 2024. 09 ~ Now 신한투자증권 프로디지털아카데미 </li>
 	</ul>
 	<hr>
  	<h4>📚 Tech Stack 📚</h4>
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
- 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+	<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+ 	<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  	<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 	<hr>
 	<h4>✨ Interests ✨</h4>
 	<ul>
