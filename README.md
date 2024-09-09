@@ -1,5 +1,5 @@
 <div align=left>
-	<img src="https://capsule-render.vercel.app/api?type=wave&color=0:fef4d7,100:d4f8e8&height=100&section=header&text=Namin's%20Palette&fontSize=20&fontColor=black" />
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=0:fef4d7,100:d4f8e8&height=100&section=header&text=Namin's%20Palette&fontSize=20&fontColor=4a4a4a" />
 </div>
 <div align=left>
 	<h4>🌠 Goal 🌠</h4>
