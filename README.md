@@ -31,14 +31,6 @@
 	<br>
   	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 	<br><br><br>
-	<h4>✨ Interests ✨</h4>
-	<ul>
-		<li> 카페 탐방하기 </li>
-		<li> 홈카페 즐기기 </li>
-	</ul>
-	<img src="https://github.com/user-attachments/assets/94a6180d-2169-470f-85bf-2b11e993d2b0">
-	<img src="https://github.com/user-attachments/assets/9cad3763-d825-462e-9ef9-14b3d87aa939">
-	<br><br><br>
   	<h4>📬 Contact Me 📬</h4>
 	<a href="mailto:skalsdl10@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skalsdl10@gmail.com"style="height:auto;margin-left:10px; 	margin-right:10px;"/>
