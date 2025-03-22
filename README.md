@@ -1,38 +1,30 @@
-<div align=left>
-	<img src="https://capsule-render.vercel.app/api?type=wave&color=0:fef4d7,100:d4f8e8&height=100&section=header&text=Namin's%20Palette&fontSize=20&fontColor=4a4a4a" />
-</div>
-<div align=left>
-	<h4>🌠  Goal  🌠</h4>
-	<ul>
-		<li>다양한 경험이나 사람들과의 관계를 조화롭게 엮어내며 삶을 풍부하고 의미 있게 만들어 나가는 개발자</li>
-		<li>깃허브를 다양한 프로젝트로 채우기</li>
-	</ul>
-	<br>
-	<h4>⏳ History ⌛</h4>
-	<ul >
-		<li> <2021. 08 ~ 2022. 02> &nbsp;신세계아이앤씨 리테일테크 코딩 교실 </li>
-		<li> <2022. 07 ~ 2022. 12> &nbsp;SK 써니C </li>
-		<li> <2023. 03 ~ 2023. 08> &nbsp;멋쟁이사자처럼 </li>
-		<li> <2024. 09 ~ 2025. 03> &nbsp;신한투자증권 프로디지털아카데미 </li>
-	</ul>
-	<br>
- 	<h4>📚 Tech Stack 📚</h4>
-	<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-	<br>
-	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-	<br>
-	<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-	<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-	<br>
-  	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-	<br><br><br>
-  	<h4>📬 Contact Me 📬</h4>
-	<a href="mailto:skalsdl10@gmail.com">
-	<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skalsdl10@gmail.com"style="height:auto;margin-left:10px; 	margin-right:10px;"/>
-	</a>
-    
+![Image](https://github.com/user-attachments/assets/9998916d-29dc-4655-b08d-6f7b45cf3307)
+![Image](https://github.com/user-attachments/assets/5fef4380-3d83-40c5-8867-abfd49344732)
+![image](https://github.com/user-attachments/assets/03935ee0-267e-4205-829e-afb0681d6054)
+![image](https://github.com/user-attachments/assets/2f2627d0-d1d9-48af-a414-bf7601842708)
+![image](https://github.com/user-attachments/assets/b799d338-b6be-4236-9f5c-05d0725a78fd)
+![image](https://github.com/user-attachments/assets/3527b59d-c747-41dd-bc60-ebd5a5f1bfb3)
+![image](https://github.com/user-attachments/assets/f191cb26-2d4b-4978-8a0f-623fcd5d0aed)
+![image](https://github.com/user-attachments/assets/08c5c8ec-63e2-414e-bc55-48287efde698)
+![image](https://github.com/user-attachments/assets/69230d7c-4145-4f79-a40c-82a2fe1f0ddc)
+![image](https://github.com/user-attachments/assets/a959ce6b-ccb8-438d-987b-cd75bc672b88)
+![image](https://github.com/user-attachments/assets/25b43891-0c0e-46a9-9707-32c132938280)
+![image](https://github.com/user-attachments/assets/eac3c052-4688-42f0-9729-9ac78825f962)
+![image](https://github.com/user-attachments/assets/0caafa05-f478-4e9c-b366-585d8cd83bae)
+![image](https://github.com/user-attachments/assets/159ee692-d40d-48ea-b3f2-4e18ce131917)
+![image](https://github.com/user-attachments/assets/12f309a2-74a9-44b0-b052-a3389a2498f0)
+![image](https://github.com/user-attachments/assets/b6128495-864d-47ea-9351-d87449441a59)
+![image](https://github.com/user-attachments/assets/953223b4-cb33-4bfe-8554-69050605ef28)
+![image](https://github.com/user-attachments/assets/2c400be6-fbbb-40ed-87bb-36a371944c60)
+![image](https://github.com/user-attachments/assets/3a7e1063-08ea-4826-b63b-74b2e2f2bf55)
+![image](https://github.com/user-attachments/assets/cf2a24bb-e13c-4113-9cc7-7dd99f8c1682)
+![image](https://github.com/user-attachments/assets/98ca1a76-090a-45cd-890f-7ef969443f39)
+![image](https://github.com/user-attachments/assets/7d5188a4-0fbc-458d-9bf4-a15afcb3c845)
+![image](https://github.com/user-attachments/assets/baf906df-5817-4afc-9d10-ccae00adad62)
+![image](https://github.com/user-attachments/assets/59090b4e-ba27-4ae9-ade3-8253401d5b4e)
+![image](https://github.com/user-attachments/assets/aa4bdb3a-29f0-47bd-a42f-c87f8a6a47df)
+![image](https://github.com/user-attachments/assets/904bee1a-7971-40a2-892e-9e5a74d00be5)
+![image](https://github.com/user-attachments/assets/38c3015d-1d8f-468e-aeb4-7a2193cb6e3c)
+![image](https://github.com/user-attachments/assets/87d10529-aa17-4dfe-820d-f41a172e3a0d)
+![image](https://github.com/user-attachments/assets/0cfe13b8-d0e6-4055-bb82-65755d7aa683)
+![image](https://github.com/user-attachments/assets/c79500e2-de98-4fdb-8bb1-13d017e03783)
